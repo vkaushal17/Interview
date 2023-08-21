@@ -1,8 +1,11 @@
 
 [https://www.geeksforgeeks.org/program-find-minimum-maximum-element-array/]
 
-// CPP program to find minimum (or maximum) element
-// in an array.
+
+
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
